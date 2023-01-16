@@ -1,0 +1,8 @@
+Name Of  Acid: we PH of Acid: 3.0 Amount of acid in litre: 34.5Name Of  Acid: H2O PH of Acid: 4.0 Amount of acid in litre: 34.67Name Of  Acid: wo2p PH of Acid: 5.0 Amount of acid in litre: 4.78
+Name Of  Acid: HCL PH of Acid: 6.0 Amount of acid in litre: 46.8
+Name Of  Acid: HCL PH of Acid: 6.0 Amount of acid in litre: 56.0
+NAME  : COH2, PH  : 2.4 ,AMOUNT : 45.9,
+NAME  : HCL, PH  : 3.0 ,AMOUNT : 56.7,
+NAME  : hhhhh, PH  : 45.0 ,AMOUNT : 45.0,
+NAME  : HCL, PH  : 4.7 ,AMOUNT : 76.0,
+NAME  : er, PH  : 3.0 ,AMOUNT : 5.0,

@@ -1,0 +1,5 @@
+NAME  : scl PH  : 7.8 AMOUNT : 45.0
+NAME  : sod, PH  : 3.4 ,AMOUNT : 6.0,
+NAME  : yu, PH  : 4.6 ,AMOUNT : 3.0,
+NAME  : hhhh, PH  : 34.0 ,AMOUNT : 56.0,
+NAME  : NaCl, PH  : 7.5 ,AMOUNT : 56.0,
